@@ -4,7 +4,7 @@
 A simple and intuitive calculator app built with Kotlin in Android Studio.
 
 ##  Features
--  Addition,  Subtraction, ✖ Multiplication,  Division
+-  Addition,  Subtraction,  Multiplication,  Division
 -  Square (x²)
 -  Square Root (√x)
 -  User-friendly UI with a sleek design
