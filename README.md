@@ -13,4 +13,4 @@ A simple and intuitive calculator app built with Kotlin in Android Studio.
 ##  How to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/calculatorapp.git
+   https://github.com/awaisqasim16/calculatorapp.git
